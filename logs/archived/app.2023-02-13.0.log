@@ -1,0 +1,33 @@
+2023-02-13 00:39:29,286 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 17689 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 00:39:29,326 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 00:39:29,327 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 00:39:35,667 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 7.194 seconds (JVM running for 9.962)
+2023-02-13 00:42:52,192 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 17974 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 00:42:52,195 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 00:42:52,195 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 00:42:54,429 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.859 seconds (JVM running for 4.475)
+2023-02-13 00:42:59,217 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working
+2023-02-13 00:42:59,219 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Custom Exchange BL working
+2023-02-13 00:43:04,763 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-2] Exchange API working
+2023-02-13 00:43:04,763 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Default Exchange BL working
+2023-02-13 00:43:11,744 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-3] Exchange API working
+2023-02-13 00:43:11,745 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-3] Custom Exchange BL working
+2023-02-13 00:53:23,828 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 18313 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 00:53:23,833 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 00:53:23,834 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 00:53:28,000 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 5.671 seconds (JVM running for 11.82)
+2023-02-13 00:54:40,630 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 18481 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 00:54:40,635 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 00:54:40,636 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 00:54:42,624 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.552 seconds (JVM running for 3.695)
+2023-02-13 00:54:58,754 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working
+2023-02-13 00:54:58,756 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Custom Exchange BL working
+2023-02-13 01:02:29,295 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-4] Exchange API working
+2023-02-13 01:02:29,295 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-4] Custom Exchange BL working
+2023-02-13 01:03:06,767 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-6] Exchange API working
+2023-02-13 01:03:06,768 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-6] Default Exchange BL working
+2023-02-13 01:03:11,719 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-8] Exchange API working
+2023-02-13 01:03:11,720 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-8] Default Exchange BL working
+2023-02-13 01:20:03,738 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 19556 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 01:20:03,772 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 01:20:03,773 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"

@@ -1,0 +1,34 @@
+2023-02-13 14:28:02,316 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.695 seconds (JVM running for 3.67)
+2023-02-13 14:28:04,052 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working
+2023-02-13 14:28:04,054 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Custom Exchange BL working
+2023-02-13 14:29:24,777 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 12548 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 14:29:24,780 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 14:29:24,781 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 14:29:27,382 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 3.452 seconds (JVM running for 5.097)
+2023-02-13 14:29:27,781 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working
+2023-02-13 14:29:27,786 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Custom Exchange BL working
+2023-02-13 14:29:34,820 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-2] Exchange API working
+2023-02-13 14:29:34,821 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Custom Exchange BL working
+2023-02-13 14:29:38,678 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-3] Exchange API working
+2023-02-13 14:29:38,679 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-3] Custom Exchange BL working
+2023-02-13 14:43:22,757 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 13619 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 14:43:22,761 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 14:43:22,762 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 14:43:24,760 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.532 seconds (JVM running for 3.553)
+2023-02-13 14:43:33,357 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working
+2023-02-13 14:43:33,360 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:43:35,457 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-1] Default Response: Exchange(date=null, result=null, success=null, query=null)
+2023-02-13 14:43:59,269 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-2] Exchange API working
+2023-02-13 14:43:59,269 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:44:00,592 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Default Response: Exchange(date=null, result=null, success=null, query=null)
+2023-02-13 14:44:20,951 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-4] Exchange API working
+2023-02-13 14:44:20,952 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-4] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:44:31,581 INFO API.architecture.javaAPI.api.ErrorHandler [http-nio-8080-exec-4] Error: java.net.SocketTimeoutException: timeout
+2023-02-13 14:44:34,206 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-5] Exchange API working
+2023-02-13 14:44:34,206 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-5] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:44:37,119 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-5] Default Response: Exchange(date=null, result=null, success=null, query=null)
+2023-02-13 14:45:42,157 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Starting JavaApiApplication using Java 11.0.18 on juancajca with PID 13794 (/home/juancajca/Documents/UCB/Arquitectura/javaAPI/target/classes started by juancajca in /home/juancajca/Documents/UCB/Arquitectura/javaAPI)
+2023-02-13 14:45:42,162 DEBUG API.architecture.javaAPI.JavaApiApplication [restartedMain] Running with Spring Boot v2.7.8, Spring v5.3.25
+2023-02-13 14:45:42,163 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-02-13 14:45:44,146 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.508 seconds (JVM running for 3.48)
+2023-02-13 14:45:48,888 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-1] Exchange API working

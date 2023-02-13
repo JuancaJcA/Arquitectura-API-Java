@@ -1,0 +1,13 @@
+2023-02-13 14:53:34,456 INFO API.architecture.javaAPI.JavaApiApplication [restartedMain] Started JavaApiApplication in 2.993 seconds (JVM running for 4.087)
+2023-02-13 14:53:38,501 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-2] Default Exchange API working
+2023-02-13 14:53:38,503 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:53:39,543 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-2] Default Response: Exchange(date=2023-02-13, result=14.4706, success=true, query=Query(amount=100, from=BOB, to=USD))
+2023-02-13 14:53:45,946 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-3] Custom Exchange API working
+2023-02-13 14:53:45,947 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-3] Custom Exchange BL working
+2023-02-13 14:53:46,695 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-3] Custom Response: Exchange(date=2023-02-13, result=5.661695, success=true, query=Query(amount=5, from=GBP, to=EUR))
+2023-02-13 14:54:09,586 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-8] Default Exchange API working
+2023-02-13 14:54:09,587 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-8] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:54:10,616 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-8] Default Response: Exchange(date=2023-02-13, result=14.4706, success=true, query=Query(amount=100, from=BOB, to=USD))
+2023-02-13 14:54:49,478 INFO API.architecture.javaAPI.api.ExchangeAPI [http-nio-8080-exec-9] Default Exchange API working
+2023-02-13 14:54:49,479 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-9] Default Exchange BL working (Amount: 100 - From: USD - To: BOB)
+2023-02-13 14:54:50,333 INFO API.architecture.javaAPI.bl.ExchangeBL [http-nio-8080-exec-9] Default Response: Exchange(date=2023-02-13, result=14.4706, success=true, query=Query(amount=100, from=BOB, to=USD))
